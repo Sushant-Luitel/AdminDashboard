@@ -1,1 +1,1 @@
-Project Link : https://sushantadmindashboard.netlify.app/
+Project Link : https://sushant-admin-dashboard.netlify.app/
